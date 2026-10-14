@@ -1,2 +1,5 @@
 [datalad "dataset"]
 	id = b9a824e2-1bdf-4225-8c59-eb4c52f92284
+[datalad "containers.pipeline"]
+	image = .datalad/environments/pipeline/image
+	cmdexec = docker run --rm -u \"$(id -u):$(id -g)\" -e HOME=/tmp -v \"$PWD\":/tmp -w /tmp -v \"$PWD/workspace\":/workspace:ro \"$(cat {img})\" {cmd}
