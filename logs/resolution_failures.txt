@@ -58,3 +58,83 @@ Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e14
 
 Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/ecfbb274-3fe6-4663-9367-cac80ce25b55/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
 
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/065051c6-5f05-43d5-84c5-34e2c0e9cbcb/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/14861a04-1551-4c8f-a822-ea9985dc7802/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/260ee1c7-d748-4881-a278-6c49bedd9324/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/27133e0d-4d71-4344-8caf-e5f9b32a62ea/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/2cbce91c-f301-4ab7-90a1-38b867c814f7/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/30f361d4-705b-46bb-9c4b-e1dac7cf3629/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/648ec2cb-3aa5-4851-9bd5-fc2e3df1a604/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/69c0b31b-6085-423c-abfe-4d6f4a523052/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/6aae6ac3-a422-4187-906d-ad1ca434db99/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/876a3532-1cb2-4c5e-ab0d-0fefb3931976/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/b13cf6db-9cca-4115-87e6-da7e4320cedb/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/b4f436dd-1ca1-4e4d-b7a1-462d72a945f1/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/c0cf7457-ab2b-463d-99a6-3438535916d0/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/e406a5ea-b22e-48ac-95e7-cbffb1c4c2e9/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/e8278bf0-9f36-4eed-b969-570b00161327/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/ee8795e7-acf4-480d-8e71-d0e23fb760fa/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/fdf57737-85b4-490a-807d-55428a6335c0/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='task-four-choice-reversal-digging-task/sub-c2aba4f6-b5dc-4ad6-8212-770dec89e143/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/02b2d377-425b-488c-8d8c-b14549e812ab/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/1d8dc635-3671-45db-9df0-70186106f929/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/1de6e669-85a3-4a1f-990c-20faf79ab845/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/1f1dfb78-9d03-4763-b3d0-b8a873b77417/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/259e8d4f-147e-4875-bd33-493cb5ca746c/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/2dc55727-515f-49eb-a59d-86d8da50ac58/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/3084f298-cf69-4a2a-bc96-f2b76c7ea8d2/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/426c9470-aacd-4872-9d46-8897c0a3ac41/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/45bc3931-fe31-437a-aadb-f53874de8679/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/492022cf-3bab-4e24-8d07-2bbf5c9b9617/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/4c868b5d-e441-44b0-9c69-926e99dd725a/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/5dbcb3b5-920f-4ad8-8aec-efd52aafebd5/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/96c68756-b1b2-487d-9a15-d9f1e244dc02/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/a1ddb439-62a7-4aff-88a4-db4dc23279ca/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/a2cb4d30-02ed-4553-bd87-813e341f5d59/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/bedbee24-2cec-48c8-8c8f-08d17f27c322/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/c205fc05-a2d0-4275-a17d-2b838ddd8e71/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/d01c2db2-c08d-4561-81c7-75a0c63d8cb8/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/ea0b8b92-bd55-455a-ae07-b9eea5d47279/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/ecfbb274-3fe6-4663-9367-cac80ce25b55/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/edfa09f3-1568-4b54-a15a-2b8e38a8251d/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
+Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e143/f0190601-3d06-464b-adf9-e8ade3b596f5/idp-test-four-choice-animal-02.xlsx', processing_step='dandiset came first'
+
