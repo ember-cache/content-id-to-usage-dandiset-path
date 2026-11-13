@@ -258,3 +258,5 @@ Asset not found: dandiset_id='000542', path='c2aba4f6-b5dc-4ad6-8212-770dec89e14
 
 Asset not found: dandiset_id='000542', path='task-four-choice-reversal-digging-task/sub-c2aba4f6-b5dc-4ad6-8212-770dec89e143/idp-test-four-choice-animal-01.xlsx', processing_step='dandiset came first'
 
+Asset not found: dandiset_id='000479', path='Zenodo_compressed_groupSubject.nwb', processing_step='asset came first'
+
